@@ -1,0 +1,10 @@
+[package]
+name = "rust-aoc-2019"
+version = "0.1.0"
+authors = ["Mikey O'Brien <hmobrienv@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+libmath = "0.1.4"
